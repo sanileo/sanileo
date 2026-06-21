@@ -17,6 +17,14 @@
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![KQL](https://img.shields.io/badge/KQL-512BD4?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Systems%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-RHEL%20%7C%20CentOS%20%7C%20Rocky-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+### **Governance, Risk & Compliance**
+![GRC](https://img.shields.io/badge/GRC-Governance%20%7C%20Risk%20%7C%20Compliance-4B0082?style=for-the-badge)
+![RMF](https://img.shields.io/badge/RMF-NIST%20800--37%20Framework-8A2BE2?style=for-the-badge)
+
+### **Operating Systems**
+![Linux](https://img.shields.io/badge/Linux-Systems%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### **Security & Analysis**
 ![Wazuh](https://img.shields.io/badge/Wazuh-0052CC?style=for-the-badge)
