@@ -16,6 +16,9 @@ Defender for Cloud  ─┘                                                      
                                               Logic Apps Playbook ←─ Automation Rule
 ```
 
+<img width="836" height="443" alt="image" src="https://github.com/user-attachments/assets/b54ed73d-b10a-4aa3-8744-b3c9583a55a5" />
+
+
 **Ingestion:** Entra ID sign-in logs and Azure Activity (control-plane) logs via diagnostic settings; Defender for Cloud's free CSPM tier via native connector.
 
 **Detection:** Custom KQL analytics rule on a 5-minute schedule, with Account/IP entity mapping so incidents carry correlated entities rather than flat alert text.
@@ -84,7 +87,7 @@ These are the debugging steps that actually built understanding, kept here becau
 
 ## Environment
 
-- Azure free-trial subscription, single Log Analytics workspace (`eastus`)
+- Azure subscription, single Log Analytics workspace (`eastus`)
 - Microsoft Sentinel (unified Defender portal)
-- No paid licensing beyond the Azure trial credit
+
 
