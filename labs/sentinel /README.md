@@ -74,6 +74,9 @@ SigninLogs
 | sort by FailureCount desc
 ```
 
+<img width="565" height="236" alt="image" src="https://github.com/user-attachments/assets/28f264ad-ad29-4fe2-a64f-54d788c490c1" />
+
+
 This surfaced a pattern that looked like a textbook password-spray signature (one IP, six accounts, repeated failures). Decoding the actual Entra ID error codes (`50072`/`50074`/`50089` — MFA prompts and session expiry, not credential failures) confirmed it was lab-testing noise, not malicious activity — a deliberate exercise in not escalating on shape alone.
 
 ## Notable diagnostic findings
